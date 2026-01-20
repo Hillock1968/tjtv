@@ -1575,7 +1575,6 @@ rtp://225.1.2.194:5002
 rtp://225.1.2.237:5002
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cctv17.png" group-title="央视频道",CCTV-17
 rtp://225.1.2.52:5002
-
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/guangdong.png" group-title="卫视频道",广东卫视
 rtp://225.1.1.116:5002
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/gansu.png" group-title="卫视频道",甘肃卫视
@@ -1642,7 +1641,6 @@ rtp://225.1.1.182:5002
 rtp://225.1.2.81:5002
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/shaanxi.png" group-title="卫视频道",陕西卫视 SD
 rtp://225.1.1.41:5002
-
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/jyjs.png" group-title="卫视频道",金鹰纪实
 rtp://225.1.1.124:5002
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/zgtq.png" group-title="卫视频道",中国天气
@@ -1663,7 +1661,6 @@ rtp://225.1.2.171:5002
 rtp://225.1.2.166:5002
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/whjp.png" group-title="央视付费频道",央视文化精品
 rtp://225.1.2.177:5002
-
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/fyyy.png" group-title="央视付费频道",风云音乐
 rtp://225.1.2.176:5002
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/dszn.png" group-title="央视付费频道",电视指南
@@ -1674,14 +1671,12 @@ EXTINF:-1 tvg-name="早期教育" tvg-logo="https://gitee.com/chilinha/mytv/raw/
 rtp://225.1.2.207:5002
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/fztd.png" group-title="央视付费频道",法治天地
 rtp://225.1.1.237:5002
-
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/dfcj.png" group-title="央视付费频道",东方财经
 rtp://225.1.1.247:5002
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cftx.png" group-title="央视付费频道",财富天下
 rtp://225.1.1.137:5002
 #EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/hqly.png" group-title="央视付费频道",环球旅游
 rtp://225.1.1.156:5002
-
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/yxfy.png" group-title="央视付费频道",游戏风云
 rtp://225.1.1.135:5002
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/hxjc.png" group-title="央视付费频道",欢笑剧场
@@ -1696,7 +1691,6 @@ rtp://225.1.1.214:5002
 rtp://225.1.1.215:5002
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/jcys.png" group-title="央视付费频道",精彩影视
 rtp://225.1.1.141:5002
-
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/lgs.png" group-title="央视付费频道",老故事 SD
 rtp://225.1.1.188:5002
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/tianjin.png" group-title="卫视频道",天津卫视
@@ -1765,7 +1759,6 @@ http://111.167.17.186:5002/rtp/225.1.2.194:5002
 http://111.167.17.186:5002/rtp/225.1.2.237:5002
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cctv17.png" group-title="央视频道",CCTV-17
 http://111.167.17.186:5002/rtp/225.1.2.52:5002
-
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/guangdong.png" group-title="卫视频道",广东卫视
 http://111.167.17.186:5002/rtp/225.1.1.116:5002
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/gansu.png" group-title="卫视频道",甘肃卫视
@@ -1832,7 +1825,6 @@ http://111.167.17.186:5002/rtp/225.1.1.182:5002
 http://111.167.17.186:5002/rtp/225.1.2.81:5002
 #EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/shaanxi.png" group-title="卫视频道",陕西卫视 SD
 http://111.167.17.186:5002/rtp/225.1.1.41:5002
-
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/jyjs.png" group-title="卫视频道",金鹰纪实
 http://111.167.17.186:5002/rtp/225.1.1.124:5002
 #EXTINF:-1 tvg-name="中国天气" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/zgtq.png" group-title="卫视频道",中国天气
@@ -1853,7 +1845,6 @@ http://111.167.17.186:5002/rtp/225.1.2.171:5002
 http://111.167.17.186:5002/rtp/225.1.2.166:5002
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/whjp.png" group-title="央视付费频道",央视文化精品
 http://111.167.17.186:5002/rtp/225.1.2.177:5002
-
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/fyyy.png" group-title="央视付费频道",风云音乐
 http://111.167.17.186:5002/rtp/225.1.2.176:5002
 #EXTINF:-1 tvg-name="电视指南" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/dszn.png" group-title="央视付费频道",电视指南
@@ -1864,14 +1855,12 @@ EXTINF:-1 tvg-name="早期教育" tvg-logo="https://gitee.com/chilinha/mytv/raw/
 http://111.167.17.186:5002/rtp/225.1.2.207:5002
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/fztd.png" group-title="央视付费频道",法治天地
 http://111.167.17.186:5002/rtp/225.1.1.237:5002
-
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/dfcj.png" group-title="央视付费频道",东方财经
 http://111.167.17.186:5002/rtp/225.1.1.247:5002
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/cftx.png" group-title="央视付费频道",财富天下
 http://111.167.17.186:5002/rtp/225.1.1.137:5002
 #EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/hqly.png" group-title="央视付费频道",环球旅游
 http://111.167.17.186:5002/rtp/225.1.1.156:5002
-
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/yxfy.png" group-title="央视付费频道",游戏风云
 http://111.167.17.186:5002/rtp/225.1.1.135:5002
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/hxjc.png" group-title="央视付费频道",欢笑剧场
@@ -1886,8 +1875,6 @@ http://111.167.17.186:5002/rtp/225.1.1.214:5002
 http://111.167.17.186:5002/rtp/225.1.1.215:5002
 #EXTINF:-1 tvg-name="精彩影视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/jcys.png" group-title="央视付费频道",精彩影视
 http://111.167.17.186:5002/rtp/225.1.1.141:5002
-
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/lgs.png" group-title="央视付费频道",老故事 SD
 http://111.167.17.186:5002/rtp/225.1.1.188:5002
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-01-20 03:02:09
-rtp://225.1.1.120:5002$联通RTP
+

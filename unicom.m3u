@@ -102,7 +102,6 @@ rtp://225.1.1.139:5002$联通RTP
 http://111.167.17.186:5002/rtp/225.1.1.146:5002$天津联通
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="央视付费频道",都市剧场
 rtp://225.1.1.146:5002$联通RTP
-
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="央视付费频道",第一剧场
 http://111.167.17.186:5002/rtp/225.1.2.175:5002$天津联通
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="央视付费频道",第一剧场

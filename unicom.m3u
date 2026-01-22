@@ -1453,54 +1453,6 @@ http://cssbyd.imwork.net:8082/hls/36/index.m3u8$订阅源
 http://182.207.218.96:999/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
 http://27.223.140.71:4000/udp/239.253.254.196:8000$山东联通
-
-rtp://225.1.2.14:5002$联通RTP
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$收集8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
-http://r.jdshipin.com/cCCzW$收集5
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$收集1
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
-http://cdn6.163189.xyz/163189/fhzw$收集4
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
-https://cdn6.163189.xyz/163189/fhzw$收集3
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
-http://php.jdshipin.com/PLTV/iptv.php?id=fhzw$收集2
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
-http://43.251.226.89:8080/play/1436.m3u8$订阅源1
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
-http://43.251.226.89:8080/play/906.m3u8$订阅源2
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
-http://43.251.226.89:8080/play/878.m3u8$订阅源3
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
-http://cdn6.163189.xyz/163189/fhzx$收集1
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
-http://php.jdshipin.com/PLTV/iptv.php?id=fhzx$收集10
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$收集9
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
-http://r.jdshipin.com/0Rp07$收集4
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
-http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8$收集5
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$收集8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
-http://43.251.226.89:8080/play/1437.m3u8$订阅源1
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="港•澳•台",凤凰香港
-http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8$收集4
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="港•澳•台",凤凰香港
-http://r.jdshipin.com/NfC0f$收集3
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="港•澳•台",凤凰香港
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$收集6
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="港•澳•台",凤凰香港
-http://php.jdshipin.com/PLTV/iptv.php?id=fhhk$收集8
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="港•澳•台",凤凰香港
-http://cdn6.163189.xyz/163189/fhhk$收集5
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="港•澳•台",凤凰香港
-http://r.jdshipin.com/yDoTN$收集2
-#EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix4.png" group-title="港•澳•台",凤凰电影
-http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源1
 #EXTINF:-1 tvg-name="天津新闻" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/tianjin1.png" group-title="天津频道",天津新闻
 http://111.167.17.186:5002/rtp/225.1.1.130:5002$天津联通
 #EXTINF:-1 tvg-name="天津文艺" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/tianjin2.png" group-title="天津频道",天津文艺
@@ -1556,39 +1508,49 @@ rtp://225.1.2.7:5002$联通RTP
 #EXTINF:-1 tvg-name="滨海2" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/binhai.png" group-title="天津频道",滨海2
 rtp://225.1.2.8:5002$联通RTP
 #EXTINF:-1 tvg-name="大港油田企业" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/youtian.png" group-title="天津频道",大港油田企业
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/beijing4k.png" group-title="卫视4K",北京卫视4K
-rtp://225.1.2.246:5002
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/guangdong4k.png" group-title="卫视4K",广东卫视4K
-rtp://225.1.2.100:5002
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/shenzhen4k.png" group-title="卫视4K",深圳卫视4K
-rtp://225.1.2.101:5002
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/shandong4k.png" group-title="卫视4K",山东卫视4K
-rtp://225.1.2.106:5002
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/jiangsu4k.png" group-title="卫视4K",江苏卫视4K
-rtp://225.1.2.107:5002
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/dongfang4k.png" group-title="卫视4K",上海东方卫视4K
-rtp://225.1.2.108:5002
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/zhejiang4k.png" group-title="卫视4K",浙江卫视4K
-rtp://225.1.2.109:5002
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/hunan4k.png" group-title="卫视4K",湖南卫视4K
-rtp://225.1.2.110:5002
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/sichuan4k.png" group-title="卫视4K",四川卫视4K
-rtp://225.1.2.111:5002
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/beijing4k.png" group-title="卫视4K",北京卫视4K
-http://111.167.17.186:5002/rtp/225.1.2.246:5002
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/guangdong4k.png" group-title="卫视4K",广东卫视4K
-http://111.167.17.186:5002/rtp/225.1.2.100:5002
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/shenzhen4k.png" group-title="卫视4K",深圳卫视4K
-http://111.167.17.186:5002/rtp/225.1.2.101:5002
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/shandong4k.png" group-title="卫视4K",山东卫视4K
-http://111.167.17.186:5002/rtp/225.1.2.106:5002
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/jiangsu4k.png" group-title="卫视4K",江苏卫视4K
-http://111.167.17.186:5002/rtp/225.1.2.107:5002
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/dongfang4k.png" group-title="卫视4K",上海东方卫视4K
-http://111.167.17.186:5002/rtp/225.1.2.108:5002
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/zhejiang4k.png" group-title="卫视4K",浙江卫视4K
-http://111.167.17.186:5002/rtp/225.1.2.109:5002
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/hunan4k.png" group-title="卫视4K",湖南卫视4K
-http://111.167.17.186:5002/rtp/225.1.2.110:5002
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/sichuan4k.png" group-title="卫视4K",四川卫视4K
-http://111.167.17.186:5002/rtp/225.1.2.111:5002
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$收集8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
+http://r.jdshipin.com/cCCzW$收集5
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$收集1
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
+http://cdn6.163189.xyz/163189/fhzw$收集4
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
+https://cdn6.163189.xyz/163189/fhzw$收集3
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
+http://php.jdshipin.com/PLTV/iptv.php?id=fhzw$收集2
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
+http://43.251.226.89:8080/play/1436.m3u8$订阅源1
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
+http://43.251.226.89:8080/play/906.m3u8$订阅源2
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
+http://43.251.226.89:8080/play/878.m3u8$订阅源3
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
+http://cdn6.163189.xyz/163189/fhzx$收集1
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
+http://php.jdshipin.com/PLTV/iptv.php?id=fhzx$收集10
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$收集9
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
+http://r.jdshipin.com/0Rp07$收集4
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
+http://api.kkitv.itv888.vip:8080/streams/wzt3qbit80m/index.m3u8$收集5
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$收集8
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
+http://43.251.226.89:8080/play/1437.m3u8$订阅源1
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="港•澳•台",凤凰香港
+http://api.kkitv.itv888.vip:8080/streams/mty4v56ud39/index.m3u8$收集4
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="港•澳•台",凤凰香港
+http://r.jdshipin.com/NfC0f$收集3
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="港•澳•台",凤凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$收集6
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="港•澳•台",凤凰香港
+http://php.jdshipin.com/PLTV/iptv.php?id=fhhk$收集8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="港•澳•台",凤凰香港
+http://cdn6.163189.xyz/163189/fhhk$收集5
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="港•澳•台",凤凰香港
+http://r.jdshipin.com/yDoTN$收集2
+#EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix4.png" group-title="港•澳•台",凤凰电影
+http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源1

@@ -1,4 +1,4 @@
-7#EXTM3U url-tvg="http://e.erw.cc/e.xml"
+#EXTM3U url-tvg="http://e.erw.cc/e.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
 rtp://225.1.1.120:5002$联通RTP
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1

@@ -600,6 +600,13 @@ http://cdn6.163189.xyz/163189/fhhk$收集5
 http://r.jdshipin.com/yDoTN$收集2
 #EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix4.png" group-title="港•澳•台",凤凰电影
 http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源1
+#EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix4.png" group-title="港•澳•台",凤凰电影
+http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源2
+#EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix4.png" group-title="港•澳•台",凤凰电影
+http://39.107.120.164:8080/live/diyp_fhdy.m3u8$订阅源3
+#EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix4.png" group-title="港•澳•台",凤凰电影
+https://hls-gateway.vpstv.net/streams/708910.m3u8$订阅源4
+
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/beijing4k.png" group-title="4K频道",北京卫视4K
 http://111.167.17.186:5002/rtp/225.1.2.246:5002$天津联通

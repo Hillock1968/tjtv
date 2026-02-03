@@ -327,7 +327,7 @@ rtp://225.1.2.61:5002$联通RTP
 http://111.167.17.186:5002/rtp/225.1.2.61:5002$天津联通
 
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
-http://111.167.17.186:5002/rtp/225.1.2.107:5002$天津联通4K
+http://111.167.17.186:5002/rtp/225.1.1.126:5002$天津联通
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/江苏卫视.png" group-title="卫视频道",江苏卫视
 rtp://225.1.1.126:5002$联通RTP
 

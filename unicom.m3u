@@ -363,4 +363,4 @@ http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$�
 #EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix4.png" group-title="港•澳•台",凤凰电影
 http://heb-zb-dx-1.sohu.blog:4022/rtp/239.254.201.1:5214$订阅源3
 #EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix4.png" group-title="港•澳•台",凤凰电影
-https://hls-gateway.vpstv.net/streams/708910.m3u8$订阅源4
+http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1$订阅源4

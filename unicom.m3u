@@ -64,6 +64,9 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub$收集1
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="央视付费频道",风云音乐
 rtp://225.1.2.176:5002$联通RTP
 
+#EXTINF:-1 tvg-name="峨眉电影 4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Sichuan9.png" group-title="央视付费频道",峨眉电影 4K
+http://59.110.175.70:10002/live/emdy4k_8000.m3u8$蜀小果
+
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="央视付费频道",CHC家庭影院
 rtp://225.1.1.213:5002$联通RTP
 

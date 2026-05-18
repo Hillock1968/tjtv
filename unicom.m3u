@@ -143,9 +143,9 @@ rtp://225.1.1.247:5002$联通RTP
 rtp://225.1.1.137:5002$联通RTP
 
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/重温经典.png" group-title="央视付费频道",重温经典
-hhttp://120.76.248.139/live/bfgd/4200000635.m3u8$微信
+http://120.76.248.139/live/bfgd/4200000635.m3u8$微信
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/重温经典.png" group-title="央视付费频道",重温经典
-http://36.36.200.196:44330/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0$收集1
+http://36.36.200.196:44330/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0http://112.27.145.212:9902/tsfile/live/1544_1.m3u8?key=txiptv&playlive=1&authid=0$微信1
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/重温经典.png" group-title="央视付费频道",重温经典
 http://112.27.235.94:8000/hls/50/index.m3u8$收集2
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/重温经典.png" group-title="央视付费频道",重温经典

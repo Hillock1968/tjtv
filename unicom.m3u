@@ -86,7 +86,7 @@ rtp://225.1.1.141:5002$联通RTP
 #EXTINF:-1 tvg-name="央视文化精品" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/whjp.png" group-title="央视付费频道",央视文化精品
 rtp://225.1.2.177:5002$联通RTP
 
-#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/欢笑剧场.png" group-title="央视付费频道",欢笑剧场
+#EXTINF:-1 tvg-name="多彩文体 4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/hxng1006/tv/main/多彩文体.png" group-title="央视付费频道",多彩文体 4K
 rtp://225.1.1.139:5002$联通RTP
 
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="央视付费频道",都市剧场

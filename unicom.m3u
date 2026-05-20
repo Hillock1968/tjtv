@@ -56,9 +56,6 @@ rtp://225.1.2.237:5002$联通RTP
 rtp://225.1.2.52:5002$联通RTP
 
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
-http://129.211.14.102:25000/ysp.php?id=cctv4k$微信
-
-#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
 rtp://225.1.2.245:5002$联通RTP
 
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8K.png" group-title="央视频道",CCTV-8K
@@ -70,8 +67,6 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub$收集1
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8K.png" group-title="央视频道",CCTV-8K
 http://107.150.60.122/live/cctv8k.m3u8$微信1
 
-#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8K.png" group-title="央视频道",CCTV-8K
-http://129.211.14.102:25000/ysp.php?id=cctv8k$微信
 
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="央视付费频道",风云音乐
 rtp://225.1.2.176:5002$联通RTP

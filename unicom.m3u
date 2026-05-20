@@ -167,12 +167,6 @@ http://43.251.226.89:8080/play/1439.m3u8$订阅源5
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/重温经典.png" group-title="央视付费频道",重温经典
 http://111.221.137.234:44330/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源6
 
-#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/纪实人文.png" group-title="央视付费频道",纪实人文
-http://43.138.5.183:10001/rtp/225.1.8.53:8060$北京市电信
-#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/纪实人文.png" group-title="央视付费频道",纪实人文
-http://115.171.216.84:4000/rtp/225.1.8.53:8060$北京市电信
-#EXTINF:-1 tvg-name="纪实人文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/纪实人文.png" group-title="央视付费频道",纪实人文
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8$订阅源1
 
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/天津卫视.png" group-title="卫视频道",天津卫视
 rtp://225.1.1.111:5002$联通RTP
@@ -345,10 +339,10 @@ http://114.254.84.33:8888/rtp/239.3.1.196:9012$IPTVZ
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://epg.112114.xyz/logo/古装剧场.png" group-title="华数频道",古装剧场
 http://114.254.84.33:8888/rtp/239.3.1.69:4120$IPTVZ
 
-#EXTINF:-1 tvg-name="华数少儿动画" tvg-logo="https://epg.112114.xyz/logo/古装剧场.png" group-title="华数少儿动画",华数少儿动画
+#EXTINF:-1 tvg-name="华数少儿动画" tvg-logo="https://epg.112114.xyz/logo/古装剧场.png" group-title="华数频道",华数少儿动画
 http://114.254.84.33:8888/rtp/239.3.1.199:9000$IPTVZ
 
-#EXTINF:-1 tvg-name="华数动画" tvg-logo="https://epg.112114.xyz/logo/古装剧场.png" group-title="华数动画",华数少儿动画华数动画
+#EXTINF:-1 tvg-name="华数动画" tvg-logo="https://epg.112114.xyz/logo/古装剧场.png" group-title="华数频道",华数少儿动画华数动画
 http://114.254.84.33:8888/rtp/239.3.1.80:4120$IPTVZ
 
 

@@ -306,6 +306,52 @@ rtp://225.1.2.8:5002$联通RTP
 #EXTINF:-1 tvg-name="大港油田企业" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/youtian.png" group-title="天津频道",大港油田企业
 rtp://225.1.2.14:5002$天津RTP
 
+#EXTINF:-1 tvg-name="华数爱上4K" tvg-logo="https://epg.112114.xyz/logo/华数爱上4K.png" group-title="华数频道",华数爱上4K
+http://114.254.84.33:8888/rtp/239.3.1.236:2000$IPTVZ
+
+#EXTINF:-1 tvg-name="华数星影" tvg-logo="https://epg.112114.xyz/logo/华数星影.png" group-title="华数频道",华数星影
+http://114.254.84.33:8888/rtp/239.3.1.94:4120$IPTVZ
+
+#EXTINF:-1 tvg-name="华数动作影院" tvg-logo="https://epg.112114.xyz/logo/华数动作影院.png" group-title="华数频道",华数动作影院
+http://114.254.84.33:8888/rtp/239.3.1.92:4120$IPTVZ
+
+#EXTINF:-1 tvg-name="华数喜剧影院" tvg-logo="https://epg.112114.xyz/logo/华数喜剧影院.png" group-title="华数频道",华数喜剧影院
+http://114.254.84.33:8888/rtp/239.3.1.91:4120$IPTVZ
+
+#EXTINF:-1 tvg-name="华数家庭影院" tvg-logo="https://epg.112114.xyz/logo/华数家庭影院.png" group-title="华数频道",华数家庭影院
+http://114.254.84.33:8888/rtp/239.3.1.93:4120$IPTVZ
+
+#EXTINF:-1 tvg-name="华数精选" tvg-logo="https://epg.112114.xyz/logo/华数精选.png" group-title="华数频道",华数精选
+http://114.254.84.33:8888/rtp/239.3.1.74:4120$IPTVZ
+
+#EXTINF:-1 tvg-name="华数经典电影" tvg-logo="https://epg.112114.xyz/logo/华数经典电影.png" group-title="华数频道",华数经典电影
+http://114.254.84.33:8888/rtp/239.3.1.195:9024$IPTVZ
+
+#EXTINF:-1 tvg-name="华数热播剧场" tvg-logo="https://epg.112114.xyz/logo/华数热播剧场.png" group-title="华数频道",华数热播剧场
+http://114.254.84.33:8888/rtp/239.3.1.194:9020$IPTVZ
+
+#EXTINF:-1 tvg-name="华数军旅剧场" tvg-logo="https://epg.112114.xyz/logo/华数军旅剧场.png" group-title="华数频道",华数军旅剧场
+http://114.254.84.33:8888/rtp/239.3.1.68:4120$IPTVZ
+
+#EXTINF:-1 tvg-name="华数城市剧场" tvg-logo="https://epg.112114.xyz/logo/华数城市剧场.png" group-title="华数频道",华数城市剧场
+http://114.254.84.33:8888/rtp/239.3.1.67:4120$IPTVZ
+
+#EXTINF:-1 tvg-name="华数武侠剧场" tvg-logo="https://epg.112114.xyz/logo/华数城市剧场.png" group-title="华数频道",华数武侠剧场
+http://114.254.84.33:8888/rtp/239.3.1.90:4120$IPTVZ
+
+#EXTINF:-1 tvg-name="华数魅力时尚" tvg-logo="https://epg.112114.xyz/logo/华数魅力时尚.png" group-title="华数频道",华数魅力时尚
+http://114.254.84.33:8888/rtp/239.3.1.196:9012$IPTVZ
+
+#EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://epg.112114.xyz/logo/古装剧场.png" group-title="华数频道",古装剧场
+http://114.254.84.33:8888/rtp/239.3.1.69:4120$IPTVZ
+
+#EXTINF:-1 tvg-name="华数少儿动画" tvg-logo="https://epg.112114.xyz/logo/古装剧场.png" group-title="华数少儿动画",华数少儿动画
+http://114.254.84.33:8888/rtp/239.3.1.199:9000$IPTVZ
+
+#EXTINF:-1 tvg-name="华数动画" tvg-logo="https://epg.112114.xyz/logo/古装剧场.png" group-title="华数动画",华数少儿动画华数动画
+http://114.254.84.33:8888/rtp/239.3.1.80:4120$IPTVZ
+
+
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/beijing4k.png" group-title="卫视4K频道",北京卫视4K
 rtp://225.1.2.246:5002$联通RTP
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/guangdong4k.png" group-title="卫视4K频道",广东卫视4K

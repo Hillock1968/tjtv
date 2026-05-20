@@ -59,7 +59,7 @@ rtp://225.1.2.52:5002$联通RTP
 rtp://225.1.2.245:5002$联通RTP
 
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8K.png" group-title="央视频道",CCTV-8K
-http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub$GitHub
+https://cdn.jsdelivr.net/gh/Meroser/Media_Coll@main/video/CCTV-8K.mp4$GitHub
 
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8K.png" group-title="央视频道",CCTV-8K
 http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub$收集1

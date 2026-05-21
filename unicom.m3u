@@ -359,7 +359,7 @@ http://114.254.84.33:8888/rtp/239.3.1.69:4120$IPTVZ1
 #EXTINF:-1 tvg-name="华数古装剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/古装剧场.png" group-title="华数频道",华数古装剧场
 http://114.254.36.134:8888/rtp/239.3.1.69:4120$IPTVZ2
 
-#EXTINF:-1 tvg-name="华数少儿动画" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/华数少儿动画.png" group-title="华数频道",华数少儿动画
+#EXTINF:-1 tvg-name="华数少儿" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/华数少儿动画.png" group-title="华数频道",华数少儿
 http://114.254.84.33:8888/rtp/239.3.1.199:9000$IPTVZ1
 #EXTINF:-1 tvg-name="华数少儿动画" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/华数少儿动画.png" group-title="华数频道",华数少儿动画
 http://114.254.36.134:8888/rtp/239.3.1.199:9000$IPTVZ2

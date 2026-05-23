@@ -319,9 +319,9 @@ http://114.254.84.33:8888/rtp/239.3.1.93:4120$IPTVZ1
 #EXTINF:-1 tvg-name="家庭影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/华数家庭影院.png" group-title="华数频道",家庭影院
 http://114.254.36.134:8888/rtp/239.3.1.93:4120$IPTVZ2
 
-#EXTINF:-1 tvg-name="华数TV精选" tvg-logo="https://epg.112114.xyz/logo/https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/华数精选.png" group-title="华数频道",华数TV精选
+#EXTINF:-1 tvg-name="TV精选" tvg-logo="https://epg.112114.xyz/logo/https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/华数精选.png" group-title="华数频道",TV精选
 http://114.254.84.33:8888/rtp/239.3.1.74:4120$IPTVZ1
-#EXTINF:-1 tvg-name="华数TV精选" tvg-logo="https://epg.112114.xyz/logo/https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/华数精选.png" group-title="华数频道",华数TV精选
+#EXTINF:-1 tvg-name="TV精选" tvg-logo="https://epg.112114.xyz/logo/https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/华数精选.png" group-title="华数频道",TV精选
 http://114.254.36.134:8888/rtp/239.3.1.74:4120$IPTVZ2
 
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/华数经典电影.png" group-title="华数频道",经典电影
@@ -359,9 +359,9 @@ http://114.254.84.33:8888/rtp/239.3.1.69:4120$IPTVZ1
 #EXTINF:-1 tvg-name="华数古装剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/古装剧场.png" group-title="华数频道",华数古装剧场
 http://114.254.36.134:8888/rtp/239.3.1.69:4120$IPTVZ2
 
-#EXTINF:-1 tvg-name="少儿动漫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/华数少儿.png" group-title="华数频道",少儿动漫
+#EXTINF:-1 tvg-name="华数少儿动漫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/华数少儿.png" group-title="华数频道",华数少儿动漫
 http://114.254.84.33:8888/rtp/239.3.1.199:9000$IPTVZ1
-#EXTINF:-1 tvg-name="少儿动漫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/华数少儿.png" group-title="华数频道",少儿动漫
+#EXTINF:-1 tvg-name="华数少儿动漫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/华数少儿.png" group-title="华数频道",华数少儿动漫
 http://114.254.36.134:8888/rtp/239.3.1.199:9000$IPTVZ2
 
 #EXTINF:-1 tvg-name="动画" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/华数动画.png" group-title="华数频道",动画

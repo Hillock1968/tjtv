@@ -440,4 +440,12 @@ http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&amp;playlive=1&amp;au
 #EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix4.png" group-title="港•澳•台",凤凰电影
 http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源1
 
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻.png" group-title="港•澳•台",无线新闻台
+http://129.211.14.102:25000/wxxw.m3u8$奇哈
+
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="港•澳•台",明珠台
+http://129.211.14.102:25000/mzt.m3u8$奇哈
+
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="港•澳•台",翡翠台
+http://129.211.14.102:25000/fct.m3u8$奇哈
 

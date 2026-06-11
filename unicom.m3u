@@ -56,6 +56,8 @@ http://60.10.139.113:8801/hls/10/index.m3u8$订阅源1
 rtp://225.1.1.140:5002$联通RTP
 
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV-11
+http://60.10.139.113:8801/hls/96/index.m3u8$订阅源1
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV-11
 rtp://225.1.2.192:5002$联通RTP
 
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV-12
@@ -98,6 +100,8 @@ rtp://225.1.2.194:5002$联通RTP
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
 rtp://225.1.2.237:5002$联通RTP
 
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
+http://60.10.139.113:8801/hls/98/index.m3u8$订阅源1
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
 rtp://225.1.2.52:5002$联通RTP
 
@@ -167,11 +171,15 @@ rtp://225.1.2.166:5002$联通RTP
 rtp://225.1.1.183:5002$联通RTP
 
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/老故事.png" group-title="央视付费频道",老故事
+http://60.10.139.113:8801/hls/74/index.m3u8$订阅源1
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/老故事.png" group-title="央视付费频道",老故事
 rtp://225.1.1.188:5002$联通RTP
 
 #EXTINF:-1 tvg-name="环球旅游" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/环球旅游.png" group-title="央视付费频道",环球旅游
 rtp://225.1.1.156:5002$联通RTP
 
+#EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/环球奇观.png" group-title="央视付费频道",环球奇观
+http://60.10.139.113:8801/hls/75/index.m3u8$订阅源1
 #EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/环球奇观.png" group-title="央视付费频道",环球奇观
 rtp://225.1.1.197:5002$联通RTP
 
@@ -250,6 +258,8 @@ http://60.10.139.113:8801/hls/29/index.m3u8$订阅源1
 rtp://225.1.1.147:5002$联通RTP
 
 #EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
+http://60.10.139.113:8801/hls/99/index.m3u8$订阅源1
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/安徽卫视.png" group-title="卫视频道",安徽卫视
 rtp://225.1.1.127:5002$联通RTP
 
 #EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/重庆卫视.png" group-title="卫视频道",重庆卫视
@@ -266,6 +276,8 @@ rtp://225.1.2.235:5002$联通RTP
 rtp://225.1.1.159:5002$联通RTP
 
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
+http://60.10.139.113:8801/hls/52/index.m3u8$订阅源1
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/广西卫视.png" group-title="卫视频道",广西卫视
 rtp://225.1.2.81:5002$联通RTP
 
 #EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/贵州卫视.png" group-title="卫视频道",贵州卫视
@@ -276,7 +288,6 @@ rtp://225.1.2.28:5002$联通RTP
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/海南卫视.png" group-title="卫视频道",海南卫视
 rtp://225.1.2.82:5002$联通RTP
 
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视http://60.10.139.113:8801/hls/16/index.m3u8$订阅源1
 #EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/河北卫视.png" group-title="卫视频道",河北卫视
 rtp://225.1.2.27:5002$联通RTP
@@ -315,8 +326,12 @@ rtp://225.1.1.154:5002$联通RTP
 rtp://225.1.1.165:5002$联通RTP
 
 #EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
+http://60.10.139.113:8801/hls/57/index.m3u8$订阅源1
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/宁夏卫视.png" group-title="卫视频道",宁夏卫视
 rtp://225.1.1.168:5002$联通RTP
 
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
+http://60.10.139.113:8801/hls/56/index.m3u8$订阅源1
 #EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/青海卫视.png" group-title="卫视频道",青海卫视
 rtp://225.1.1.251:5002$联通RTP
 
@@ -325,6 +340,8 @@ http://60.10.139.113:8801/hls/25/index.m3u8$订阅源1
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/山东卫视.png" group-title="卫视频道",山东卫视
 rtp://225.1.1.148:5002$联通RTP
 
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="卫视频道",山西卫视
+http://60.10.139.113:8801/hls/54/index.m3u8$订阅源1
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="卫视频道",山西卫视
 rtp://225.1.1.136:5002$联通RTP
 
@@ -354,6 +371,8 @@ rtp://225.1.1.166:5002$联通RTP
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="卫视频道",兵团卫视
 rtp://225.1.1.169:5002$联通RTP
 
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
+http://60.10.139.113:8801/hls/51/index.m3u8$订阅源1
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
 rtp://225.1.1.250:5002$联通RTP
 

@@ -47,25 +47,14 @@ rtp://225.1.2.193:5002$联通RTP
 rtp://225.1.1.144:5002$联通RTP
 
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV-15.png" group-title="央视频道",CCTV-15
-http://198.204.228.26/live/cctv15hd.m3u8$订阅源1
+http://60.10.139.113:8801/hls/97/index.m3u8$订阅源1
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV-15.png" group-title="央视频道",CCTV-15
-https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8$订阅源2
+http://222.223.41.27:8888/hls/15/index.m3u8$订阅源2
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV-15.png" group-title="央视频道",CCTV-15
-http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009$订阅源3
+http://60.25.223.73:85/tsfile/live/89/1021.m3u8?key=txiptv$订阅源3
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV-15.png" group-title="央视频道",CCTV-15
-http://38.75.136.137:98/gslb/dsdqpub/cctv15hd.m3u8?auth=testpub$订阅源4
-#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV-15.png" group-title="央视频道",CCTV-15
-http://125.43.244.34:9901/tsfile/live/1018_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源5
-#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV-15.png" group-title="央视频道",CCTV-15
-http://222.223.41.27:8888/hls/15/index.m3u8$订阅源6
-#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV-15.png" group-title="央视频道",CCTV-15
-http://60.25.223.73:85/tsfile/live/89/1021.m3u8?key=txiptv$订阅源7
-#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV-15.png" group-title="央视频道",CCTV-15
-http://118.193.115.2:9901/tsfile/live/0015_1.m3u8?key=txiptv$订阅源8
-#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV-15.png" group-title="央视频道",CCTV-15
-http://58.56.162.102:4466/newlive/live/hls/16/live.m3u8$订阅源9
-#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV-15.png" group-title="央视频道",CCTV-15
-http://60.10.139.113:8801/hls/97/index.m3u8$订阅源10
+http://118.193.115.2:9901/tsfile/live/0015_1.m3u8?key=txiptv$订阅源4
+
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15
 http://47.97.252.137:8088/tvlive/cctv15hd.m3u8?node=1$家中1
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15

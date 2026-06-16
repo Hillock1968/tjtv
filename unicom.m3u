@@ -70,12 +70,11 @@ http://60.10.139.113:8801/hls/9/index.m3u8$订阅源1
 rtp://225.1.1.119:5002$联通RTP
 
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV-10
-
+http://222.223.41.27:8888/hls/10/index.m3u8$订阅源0
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV-10
 http://60.10.139.113:8801/hls/10/index.m3u8$订阅源1
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV10.png" group-title="央视频道",CCTV-10
 rtp://225.1.1.140:5002$联通RTP
-http://222.223.41.27:8888/hls/10/index.m3u8$订阅源0
 
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV11.png" group-title="央视频道",CCTV-11
 http://222.223.41.27:8888/hls/11/index.m3u8$订阅源0
@@ -91,17 +90,22 @@ http://60.10.139.113:8801/hls/11/index.m3u8$订阅源1
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV12.png" group-title="央视频道",CCTV-12
 rtp://225.1.1.142:5002$联通RTP
 
-
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
+http://222.223.41.27:8888/hls/13/index.m3u8$订阅源0
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
 http://60.10.139.113:8801/hls/12/index.m3u8$订阅源1
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV13.png" group-title="央视频道",CCTV-13
 rtp://225.1.2.193:5002$联通RTP
 
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
+http://222.223.41.27:8888/hls/14/index.m3u8$订阅源0
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
 http://60.10.139.113:8801/hls/13/index.m3u8$订阅源1
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV14.png" group-title="央视频道",CCTV-14
 rtp://225.1.1.144:5002$联通RTP
 
+#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV-15.png" group-title="央视频道",CCTV-15
+http://222.223.41.27:8888/hls/15/index.m3u8$订阅源0
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV-15.png" group-title="央视频道",CCTV-15
 http://60.10.139.113:8801/hls/97/index.m3u8$订阅源1
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://live.fanmingming.com/tv/CCTV-15.png" group-title="央视频道",CCTV-15
@@ -125,16 +129,24 @@ http://122.224.58.42:85/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 rtp://225.1.2.194:5002$联通RTP
 
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
+http://198.204.228.26/live/cctv16hd.m3u8$订阅源0
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
 rtp://225.1.2.237:5002$联通RTP
 
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
+http://198.204.228.26/live/cctv17hd.m3u8$订阅源0
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
 http://60.10.139.113:8801/hls/98/index.m3u8$订阅源1
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
 rtp://225.1.2.52:5002$联通RTP
 
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
+http://198.204.228.26/live/cctv4k.m3u8$订阅源0
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV4K.png" group-title="央视频道",CCTV-4K
 rtp://225.1.2.245:5002$联通RTP
 
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8K.png" group-title="央视频道",CCTV-8K
+http://198.204.228.26/live/cctv8k.m3u8$订阅源0
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8K.png" group-title="央视频道",CCTV-8K
 http://47.97.252.137:8088/tvlive/cctv8k.m3u8?node=4$家中1
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8K.png" group-title="央视频道",CCTV-8K
@@ -145,16 +157,21 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv8k.m3u8?auth=testpub$收集1
 #EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV8K.png" group-title="央视频道",CCTV-8K
 http://107.150.60.122/live/cctv8k.m3u8$微信1
 
-
+#EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="央视付费频道",风云音乐
+http://198.204.228.26/live/fyyy.m3u8$订阅源0
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="央视付费频道",风云音乐
 rtp://225.1.2.176:5002$联通RTP
 
+#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="央视付费频道",CHC家庭影院
+http://198.204.228.26/live/chcjt.m3u8$订阅源0
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="央视付费频道",CHC家庭影院
 rtp://225.1.1.213:5002$联通RTP
 
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="央视付费频道",CHC影迷电影
 rtp://225.1.1.214:5002$联通RTP
 
+#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="央视付费频道",CHC动作电影
+http://198.204.228.26/live/chcdz.m3u8$订阅源0
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="央视付费频道",CHC动作电影
 rtp://225.1.1.215:5002$联通RTP
 
@@ -171,17 +188,27 @@ rtp://225.1.1.139:5002$联通RTP
 rtp://225.1.1.146:5002$联通RTP
 
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="央视付费频道",第一剧场
+http://198.204.228.26/live/dyjc.m3u8$订阅源0
+#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="央视付费频道",第一剧场
 rtp://225.1.2.175:5002$联通RTP
 
+#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="央视付费频道",怀旧剧场
+http://198.204.228.26/live/hjjc.m3u8$订阅源0
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="央视付费频道",怀旧剧场
 rtp://225.1.2.173:5002$联通RTP
 
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视付费频道",风云剧场
+http://198.204.228.26/live/fyjc.m3u8$订阅源0
+#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视付费频道",风云剧场
 rtp://225.1.2.174:5002$联通RTP
 
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视付费频道",风云足球
+http://198.204.228.26/live/fyzq.m3u8$订阅源0
+#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视付费频道",风云足球
 rtp://225.1.2.168:5002$联通RTP
 
+#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="央视付费频道",央视台球
+http://198.204.228.26/live/ystq.m3u8$订阅源0
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="央视付费频道",央视台球
 rtp://225.1.2.170:5002$联通RTP
 
@@ -195,8 +222,12 @@ rtp://225.1.2.171:5002$联通RTP
 rtp://225.1.2.166:5002$联通RTP
 
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/发现之旅.png" group-title="央视付费频道",发现之旅
+http://198.204.228.26/live/fxzl.m3u8$订阅源0
+#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/发现之旅.png" group-title="央视付费频道",发现之旅
 rtp://225.1.1.183:5002$联通RTP
 
+#EXTINF:-1 tvg-name="老故事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/老故事.png" group-title="央视付费频道",老故事
+http://198.204.228.26/live/lgs.m3u8$订阅源0
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/老故事.png" group-title="央视付费频道",老故事
 http://60.10.139.113:8801/hls/74/index.m3u8$订阅源1
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/老故事.png" group-title="央视付费频道",老故事
@@ -224,6 +255,8 @@ rtp://225.1.1.247:5002$联通RTP
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/财富天下.png" group-title="央视付费频道",财富天下
 rtp://225.1.1.137:5002$联通RTP
 
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/重温经典.png" group-title="央视付费频道",重温经典
+http://198.204.228.26/live/cwjd.m3u8$订阅源0
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/重温经典.png" group-title="央视付费频道",重温经典
 http://cdn6.163189.xyz/163189/cwjd$GitHub
 

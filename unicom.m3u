@@ -524,7 +524,7 @@ http://114.254.36.134:8888/rtp/239.3.1.236:2000$IPTVZ2
 
 
 #EXTINF:-1 tvg-name="星影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="华数频道",星影
-http://114.254.84.33:8888/rtp/239.3.1.94:4120$IPTVZ1
+http://114.241.253.135:4022/星影[高清]?cors
 #EXTINF:-1 tvg-name="星影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="华数频道",星影
 http://114.254.36.134:8888/rtp/239.3.1.94:4120$IPTVZ2
 

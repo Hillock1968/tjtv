@@ -519,14 +519,9 @@ rtp://225.1.2.14:5002$天津RTP
 
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/爱上4K.png" group-title="华数频道",爱上4K
 http://114.241.253.135:4022/爱上4K[超清]?cors
-#EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/爱上4K.png" group-title="华数频道",爱上4K
-http://114.254.36.134:8888/rtp/239.3.1.236:2000$IPTVZ2
-
 
 #EXTINF:-1 tvg-name="星影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="华数频道",星影
 http://114.241.253.135:4022/星影[高清]?cors
-#EXTINF:-1 tvg-name="星影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="华数频道",星影
-http://114.254.36.134:8888/rtp/239.3.1.94:4120$IPTVZ2
 
 #EXTINF:-1 tvg-name="动作影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/动作影院.png" group-title="华数频道",动作影院
 http://114.241.253.135:4022/动作影院[高清]?cors
@@ -536,63 +531,40 @@ http://114.241.253.135:4022/光影[高清]?cors
 
 #EXTINF:-1 tvg-name="喜剧影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/喜剧影院.png" group-title="华数频道",喜剧影院
 http://114.241.253.135:4022/喜剧影院[高清]?cors
-#EXTINF:-1 tvg-name="喜剧影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/喜剧影院.png" group-title="华数频道",喜剧影院
-http://114.254.36.134:8888/rtp/239.3.1.91:4120$IPTVZ2
+
 
 #EXTINF:-1 tvg-name="家庭影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/家庭影院.png" group-title="华数频道",家庭影院
 http://114.241.253.135:4022/家庭影院[高清]?cors
-#EXTINF:-1 tvg-name="家庭影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/家庭影院.png" group-title="华数频道",家庭影院
-http://114.254.36.134:8888/rtp/239.3.1.93:4120$IPTVZ2
 
 #EXTINF:-1 tvg-name="精选" tvg-logo="https://epg.112114.xyz/logo/https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/精选.png" group-title="华数频道",精选
 http://114.241.253.135:4022/精选[高清]?cors
-#EXTINF:-1 tvg-name="精选" tvg-logo="https://epg.112114.xyz/logo/https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/精选.png" group-title="华数频道",精选
-http://114.254.36.134:8888/rtp/239.3.1.74:4120$IPTVZ2
 
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="华数频道",经典电影
 http://114.241.253.135:4022/经典电影[高清]?cors
-#EXTINF:-1 tvg-name="经典电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="华数频道",经典电影
-http://114.254.36.134:8888/rtp/239.3.1.195:9024$IPTVZ2
 
 #EXTINF:-1 tvg-name="热播剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/热播剧场.png" group-title="华数频道",热播剧场
 http://114.241.253.135:4022/热播剧场[高清]?cors
-#EXTINF:-1 tvg-name="热播剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/热播剧场.png" group-title="华数频道",热播剧场
-http://114.254.36.134:8888/rtp/239.3.1.194:9020$IPTVZ2
 
 #EXTINF:-1 tvg-name="华数军旅剧场" tvg-logo="https://epg.112114.xyz/logo/华数军旅剧场.png" group-title="华数频道",华数军旅剧场
 http://114.241.253.135:4022/军旅剧场[高清]?cors
-#EXTINF:-1 tvg-name="华数军旅剧场" tvg-logo="https://epg.112114.xyz/logo/军旅剧场.png" group-title="华数频道",华数军旅剧场
-http://114.254.36.134:8888/rtp/239.3.1.68:4120$IPTVZ2
 
 #EXTINF:-1 tvg-name="城市剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/城市剧场.png" group-title="华数频道",城市剧场
 http://114.241.253.135:4022/城市剧场[高清]?cors
-#EXTINF:-1 tvg-name="城市剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/城市剧场.png" group-title="华数频道",城市剧场
-http://114.254.36.134:8888/rtp/239.3.1.67:4120$IPTVZ2
 
 #EXTINF:-1 tvg-name="武侠剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/武侠剧场.png" group-title="华数频道",武侠剧场
 hhttp://114.241.253.135:4022/武侠剧场[高清]?cors
-#EXTINF:-1 tvg-name="武侠剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/武侠剧场.png" group-title="华数频道",武侠剧场
-http://114.254.36.134:8888/rtp/239.3.1.90:4120$IPTVZ2
 
 #EXTINF:-1 tvg-name="魅力时尚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/魅力时尚.png" group-title="华数频道",魅力时尚
 http://114.241.253.135:4022/魅力时尚[高清]?cors
-#EXTINF:-1 tvg-name="魅力时尚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/魅力时尚.png" group-title="华数频道",魅力时尚
-http://114.254.36.134:8888/rtp/239.3.1.196:9012$IPTVZ2
 
 #EXTINF:-1 tvg-name="华数古装剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/古装剧场.png" group-title="华数频道",华数古装剧场
 http://114.241.253.135:4022/古装剧场[高清]?cors
-#EXTINF:-1 tvg-name="华数古装剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/古装剧场.png" group-title="华数频道",华数古装剧场
-http://114.254.36.134:8888/rtp/239.3.1.69:4120$IPTVZ2
 
-#EXTINF:-1 tvg-name="华数少儿动画" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/华数少儿动画.png" group-title="华数频道",华数少儿动画
+#EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="华数频道",少儿动画
 http://114.241.253.135:4022/少儿动画[高清]?cors
-#EXTINF:-1 tvg-name="华数少儿动画" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/华数少儿动画.png" group-title="华数频道",华数少儿动画
-http://114.254.36.134:8888/rtp/239.3.1.199:9000$IPTVZ2
 
 #EXTINF:-1 tvg-name="动画" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/动画.png" group-title="华数频道",动画
 http://114.241.253.135:4022/动画[高清]?cors
-#EXTINF:-1 tvg-name="动画" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/动画.png" group-title="华数频道",动画
-http://114.254.36.134:8888/rtp/239.3.1.80:4120$IPTVZ2
 
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/beijing4k.png" group-title="卫视4K频道",北京卫视4K
 rtp://225.1.2.246:5002$联通RTP

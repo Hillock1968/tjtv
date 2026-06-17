@@ -585,84 +585,105 @@ rtp://225.1.2.110:5002$联通RTP
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/sichuan4k.png" group-title="卫视4K频道",四川卫视4K
 rtp://225.1.2.111:5002$联通RTP
 
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="香港",凤凰中文
 http://cdn6.163189.xyz/163189/fhzw$GitHub
 
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="香港",凤凰中文
 http://zj-zb-lt.sohu.blog:7912/rtp/233.50.202.35:5140$奇哈1
 
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="香港",凤凰中文
 http://cdn6.163189.xyz/163189/fhzw$收集4
 
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="香港",凤凰中文
 http://r.jdshipin.com/cCCzW$收集5
 
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="香港",凤凰中文
 https://cdn6.163189.xyz/163189/fhzw$收集3
 
 
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="香港",凤凰资讯
 http://cdn6.163189.xyz/163189/fhzx$GitHub
 
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="香港",凤凰资讯
 http://zj-zb-lt.sohu.blog:7912/rtp/233.50.202.36:5140$奇哈1
 
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="香港",凤凰资讯
 http://cdn6.163189.xyz/163189/fhzx$收集1
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="香港",凤凰资讯
 http://r.jdshipin.com/0Rp07$收集4
 
 
 
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="港•澳•台",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="香港",凤凰香港
 http://cdn6.163189.xyz/163189/fhhk$GitHub
 
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="港•澳•台",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="香港",凤凰香港
 http://cdn6.163189.xyz/163189/fhhk$收集5
 
 
-#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="港•澳•台",凤凰香港
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="香港",凤凰香港
 http://r.jdshipin.com/yDoTN$收集2
 
-#EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix4.png" group-title="港•澳•台",凤凰电影
+#EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix4.png" group-title="香港",凤凰电影
 http://tsl.9kds.com:7088/rtp/239.253.93.81:6247$奇哈1
 
-#EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix4.png" group-title="港•澳•台",凤凰电影
+#EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix4.png" group-title="香港",凤凰电影
 http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源2
-#EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix4.png" group-title="港•澳•台",凤凰电影
+#EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix4.png" group-title="香港",凤凰电影
 http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&amp;playlive=1&amp;authid=0%24%E6%B5%99%E6%B1%9F/%E7%BB%8D%E5%85%B4/%E7%94%B5%E4%BF%A1$订阅源4
-#EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix4.png" group-title="港•澳•台",凤凰电影
+#EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix4.png" group-title="香港",凤凰电影
 http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源1
 
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻.png" group-title="港•澳•台",无线新闻台
-http://rihou.cc:555/tv/中天新闻
-
-#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中视新闻.png" group-title="港•澳•台",中视新闻
-http://rihou.cc:555/tv/中视新闻
-
-#EXTINF:-1 tvg-name="镜新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/镜新闻.png" group-title="港•澳•台",镜新闻
-http://rihou.cc:555/tv/镜新闻
-
-#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻台.png" group-title="港•澳•台",TVBS新闻台
-http://rihou.cc:555/tv/[FY]tvbS新闻
-
-#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/八度空间png" group-title="港•澳•台",八度空间
-https://cdn6.163189.xyz/163189/8tv
-
-#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="港•澳•台",明珠台
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="香港",明珠台
 http://cdn6.163189.xyz/163189/mzt
 
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="港•澳•台",翡翠台
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="香港",翡翠台
 http://cdn6.163189.xyz/163189/fct
 
-#EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/澳视卫星.png" group-title="港•澳•台",澳视卫星
+#EXTINF:-1 tvg-name="公视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/公视.png" group-title="台湾",公视
+http://220.135.241.47:8305/0.ts
+
+#EXTINF:-1 tvg-name="台视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视.png" group-title="台湾",台视
+http://211.72.174.95:8112/0.ts
+
+#EXTINF:-1 tvg-name="华视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/华视.png" group-title="台湾",华视
+http://211.72.174.95:8114/0.ts
+
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视.png" group-title="台湾",民视
+http://211.72.174.95:8115/0.ts
+
+#EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻台.png" group-title="台湾",民视新闻台
+http://211.72.174.95:8117/0.ts
+
+#EXTINF:-1 tvg-name="中视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png" group-title="台湾",中视
+http://211.72.174.95:8113/0.ts
+
+#EXTINF:-1 tvg-name="中天新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻.png" group-title="台湾",中天新闻
+http://rihou.cc:555/tv/中天新闻
+
+#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中天娱乐.png" group-title="台湾",中天娱乐
+http://61.221.215.25:8800/hls/47/index.m3u8
+
+#EXTINF:-1 tvg-name="中视新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中视新闻.png" group-title="台湾",中视新闻
+http://rihou.cc:555/tv/中视新闻
+
+#EXTINF:-1 tvg-name="镜新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/镜新闻.png" group-title="台湾",镜新闻
+http://rihou.cc:555/tv/镜新闻
+
+#EXTINF:-1 tvg-name="TVBS新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新闻台.png" group-title="台湾",TVBS新闻台
+http://rihou.cc:555/tv/[FY]tvbS新闻
+
+#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/八度空间png" group-title="台湾",八度空间
+https://cdn6.163189.xyz/163189/8tv
+
+#EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/澳视卫星.png" group-title="澳门",澳视卫星
 https://cdn6.163189.xyz/163189/as
 
-#EXTINF:-1 tvg-name="澳门综艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/澳门综艺.png" group-title="港•澳•台",澳门综艺
+#EXTINF:-1 tvg-name="澳门综艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/澳门综艺.png" group-title="澳门",澳门综艺
 http://cdn6.163189.xyz/163189/amzy
 
-#EXTINF:-1 tvg-name="澳门体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/澳门体育.png" group-title="港•澳•台",澳门体育
+#EXTINF:-1 tvg-name="澳门体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/澳门体育.png" group-title="澳门",澳门体育
 https://cdn6.163189.xyz/163189/amty
 
-#EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/澳门莲花.png" group-title="港•澳•台",澳门莲花
+#EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/澳门莲花.png" group-title="澳门",澳门莲花
 https://cdn6.163189.xyz/163189/amlh

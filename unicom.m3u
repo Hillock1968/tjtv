@@ -552,7 +552,7 @@ http://114.241.253.135:4022/军旅剧场[高清]?cors
 http://114.241.253.135:4022/城市剧场[高清]?cors
 
 #EXTINF:-1 tvg-name="武侠剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/武侠剧场.png" group-title="华数频道",武侠剧场
-hhttp://114.241.253.135:4022/武侠剧场[高清]?cors
+http://114.254.72.97:4022/rtp/239.3.1.90:4120
 
 #EXTINF:-1 tvg-name="魅力时尚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/魅力时尚.png" group-title="华数频道",魅力时尚
 http://114.241.253.135:4022/魅力时尚[高清]?cors

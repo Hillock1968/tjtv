@@ -162,15 +162,11 @@ http://107.150.60.122/live/cctv8k.m3u8$微信1
 http://221.197.236.192:17514/udp/225.1.2.176:5002$联通RTP
 
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="央视付费频道",CHC家庭影院
-http://198.204.228.26/live/chcjt.m3u8$订阅源0
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="央视付费频道",CHC家庭影院
 http://221.197.236.192:17514/udp/225.1.1.213:5002$联通RTP
 
 #EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC影迷电影.png" group-title="央视付费频道",CHC影迷电影
 http://221.197.236.192:17514/udp/225.1.1.214:5002$联通RTP
 
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="央视付费频道",CHC动作电影
-http://198.204.228.26/live/chcdz.m3u8$订阅源0
 #EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC动作电影.png" group-title="央视付费频道",CHC动作电影
 http://221.197.236.192:17514/udp/225.1.1.215:5002$联通RTP
 
@@ -187,27 +183,17 @@ http://221.197.236.192:17514/udp/225.1.1.139:5002$联通RTP
 http://221.197.236.192:17514/udp/225.1.1.146:5002$联通RTP
 
 #EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="央视付费频道",第一剧场
-http://198.204.228.26/live/dyjc.m3u8$订阅源0
-#EXTINF:-1 tvg-name="第一剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/第一剧场.png" group-title="央视付费频道",第一剧场
 http://221.197.236.192:17514/udp/225.1.2.175:5002$联通RTP
 
-#EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="央视付费频道",怀旧剧场
-http://198.204.228.26/live/hjjc.m3u8$订阅源0
 #EXTINF:-1 tvg-name="怀旧剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/怀旧剧场.png" group-title="央视付费频道",怀旧剧场
 http://221.197.236.192:17514/udp/225.1.2.173:5002$联通RTP
 
 #EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视付费频道",风云剧场
-http://198.204.228.26/live/fyjc.m3u8$订阅源0
-#EXTINF:-1 tvg-name="风云剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云剧场.png" group-title="央视付费频道",风云剧场
 http://221.197.236.192:17514/udp/225.1.2.174:5002$联通RTP
 
 #EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视付费频道",风云足球
-http://198.204.228.26/live/fyzq.m3u8$订阅源0
-#EXTINF:-1 tvg-name="风云足球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云足球.png" group-title="央视付费频道",风云足球
 http://221.197.236.192:17514/udp/225.1.2.168:5002$联通RTP
 
-#EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="央视付费频道",央视台球
-http://198.204.228.26/live/ystq.m3u8$订阅源0
 #EXTINF:-1 tvg-name="央视台球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/央视台球.png" group-title="央视付费频道",央视台球
 http://221.197.236.192:17514/udp/225.1.2.170:5002$联通RTP
 
@@ -221,14 +207,8 @@ http://221.197.236.192:17514/udp/225.1.2.171:5002$联通RTP
 http://221.197.236.192:17514/udp/225.1.2.166:5002$联通RTP
 
 #EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/发现之旅.png" group-title="央视付费频道",发现之旅
-http://198.204.228.26/live/fxzl.m3u8$订阅源0
-#EXTINF:-1 tvg-name="发现之旅" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/发现之旅.png" group-title="央视付费频道",发现之旅
 http://221.197.236.192:17514/udp/225.1.1.183:5002$联通RTP
 
-#EXTINF:-1 tvg-name="老故事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/老故事.png" group-title="央视付费频道",老故事
-http://198.204.228.26/live/lgs.m3u8$订阅源0
-#EXTINF:-1 tvg-name="老故事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/老故事.png" group-title="央视付费频道",老故事
-http://60.10.139.113:8801/hls/74/index.m3u8$订阅源1
 #EXTINF:-1 tvg-name="老故事" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/老故事.png" group-title="央视付费频道",老故事
 http://221.197.236.192:17514/udp/225.1.1.188:5002$联通RTP
 
@@ -236,12 +216,8 @@ http://221.197.236.192:17514/udp/225.1.1.188:5002$联通RTP
 http://221.197.236.192:17514/udp/225.1.1.156:5002$联通RTP
 
 #EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/环球奇观.png" group-title="央视付费频道",环球奇观
-http://60.10.139.113:8801/hls/75/index.m3u8$订阅源1
-#EXTINF:-1 tvg-name="环球奇观" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/环球奇观.png" group-title="央视付费频道",环球奇观
 http://221.197.236.192:17514/udp/225.1.1.197:5002$联通RTP
 
-#EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰纪实.png" group-title="央视付费频道",金鹰纪实
-http://60.10.139.113:8801/hls/33/index.m3u8$订阅源1
 #EXTINF:-1 tvg-name="金鹰纪实" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰纪实.png" group-title="央视付费频道",金鹰纪实
 http://221.197.236.192:17514/udp/225.1.1.124:5002$联通RTP
 
@@ -254,8 +230,6 @@ http://221.197.236.192:17514/udp/225.1.1.247:5002$联通RTP
 #EXTINF:-1 tvg-name="财富天下" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/财富天下.png" group-title="央视付费频道",财富天下
 http://221.197.236.192:17514/udp/225.1.1.137:5002$联通RTP
 
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/重温经典.png" group-title="央视付费频道",重温经典
-http://198.204.228.26/live/cwjd.m3u8$订阅源0
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/重温经典.png" group-title="央视付费频道",重温经典
 http://cdn6.163189.xyz/163189/cwjd$GitHub
 

@@ -150,7 +150,7 @@ http://107.150.60.122/live/cctv8k.m3u8$微信1
 http://tv.zimtv.cn/tv/player/api/huya.php?id=17091681
 
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="央视付费频道",风云音乐
-http://207.56.13.146:8081/cdnlive/fyyy.m3u8
+http://101.31.193.208:10317/央视/风云音乐高清?cors
 
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="央视付费频道",风云音乐
 http://221.197.236.192:17514/udp/225.1.2.176:5002$联通RTP

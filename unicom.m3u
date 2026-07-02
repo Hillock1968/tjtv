@@ -52,9 +52,6 @@ http://223.166.245.162:8001/rtp/233.18.204.81:5140$上海联通
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
 http://223.166.245.162:8001/rtp/233.18.204.114:5140$上海联通
 
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV16.png" group-title="央视频道",CCTV-16
-http://223.166.245.162:8001/rtp/233.18.204.215:5140$上海联通
-
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV17.png" group-title="央视频道",CCTV-17
 http://223.166.245.162:8001/rtp/233.18.204.83:5140$上海联通
 

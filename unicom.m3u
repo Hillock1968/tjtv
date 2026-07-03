@@ -909,33 +909,60 @@ http://101.66.199.118:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/云南卫视.png" group-title="卫视频道",云南卫视
 http://221.197.236.192:17514/udp/225.1.1.250:5002$联通RTP
 
-
+#EXTINF:-1 tvg-name="天津新闻" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/tianjin1.png" group-title="天津频道",天津新闻
+http://221.197.236.121:17514/udp/225.1.1.130:5002
 #EXTINF:-1 tvg-name="天津新闻" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/tianjin1.png" group-title="天津频道",天津新闻
 http://221.197.236.192:17514/udp/225.1.1.130:5002$联通RTP
 #EXTINF:-1 tvg-name="天津文艺" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/tianjin2.png" group-title="天津频道",天津文艺
+http://221.197.236.121:17514/udp/225.1.1.131:5002
+#EXTINF:-1 tvg-name="天津文艺" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/tianjin2.png" group-title="天津频道",天津文艺
 http://221.197.236.192:17514/udp/225.1.1.131:5002$联通RTP
+#EXTINF:-1 tvg-name="天津影视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/tianjin3.png" group-title="天津频道",天津影视
+http://221.197.236.121:17514/udp/225.1.1.149:5002
 #EXTINF:-1 tvg-name="天津影视" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/tianjin3.png" group-title="天津频道",天津影视
 http://221.197.236.192:17514/udp/225.1.1.149:5002$联通RTP
 #EXTINF:-1 tvg-name="天津都市" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/tianjin4.png" group-title="天津频道",天津都市
+http://221.197.236.121:17514/udp/225.1.1.128:5002
+#EXTINF:-1 tvg-name="天津都市" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/tianjin4.png" group-title="天津频道",天津都市
 http://221.197.236.192:17514/udp/225.1.1.128:5002$联通RTP
+#EXTINF:-1 tvg-name="天津体育" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/tianjin5.png" group-title="天津频道",天津体育
+http://221.197.236.121:17514/udp/225.1.1.122:5002
 #EXTINF:-1 tvg-name="天津体育" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/tianjin5.png" group-title="天津频道",天津体育
 http://221.197.236.192:17514/udp/225.1.1.122:5002$联通RTP
 #EXTINF:-1 tvg-name="天津教育" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/tianjin6.png" group-title="天津频道",天津教育
+http://221.197.236.121:17514/udp/225.1.1.129:5002
+#EXTINF:-1 tvg-name="天津教育" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/tianjin6.png" group-title="天津频道",天津教育
 http://221.197.236.192:17514/udp/225.1.1.129:5002$联通RTP
+#EXTINF:-1 tvg-name="蓟州" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/jizhou.png" group-title="天津频道",蓟州
+http://221.197.236.121:17514/udp/225.1.1.82:5002
 #EXTINF:-1 tvg-name="蓟州" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/jizhou.png" group-title="天津频道",蓟州
 http://221.197.236.192:17514/udp/225.1.1.82:5002$联通RTP
 #EXTINF:-1 tvg-name="宝坻" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/baodi.png" group-title="天津频道",宝坻
+http://221.197.236.121:17514/udp/225.1.1.83:5002
+#EXTINF:-1 tvg-name="宝坻" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/baodi.png" group-title="天津频道",宝坻
 http://221.197.236.192:17514/udp/225.1.1.83:5002$联通RTP
+#EXTINF:-1 tvg-name="静海" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/jinghai.png" group-title="天津频道",静海
+http://221.197.236.121:17514/udp/225.1.1.110:500
 #EXTINF:-1 tvg-name="静海" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/jinghai.png" group-title="天津频道",静海
 http://221.197.236.192:17514/udp/225.1.1.110:5002$联通RTP
 #EXTINF:-1 tvg-name="河东" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/hedong.png" group-title="天津频道",河东
+http://221.197.236.121:17514/udp/225.1.2.2:5002
+#EXTINF:-1 tvg-name="河东" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/hedong.png" group-title="天津频道",河东
 http://221.197.236.192:17514/udp/225.1.2.2:5002$联通RTP
+#EXTINF:-1 tvg-name="河西" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/hexi.png" group-title="天津频道",河西
+http://221.197.236.121:17514/udp/225.1.2.4:5002
 #EXTINF:-1 tvg-name="河西" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/hexi.png" group-title="天津频道",河西
 http://221.197.236.192:17514/udp/225.1.2.4:5002$联通RTP
 #EXTINF:-1 tvg-name="滨海1" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/binhai.png" group-title="天津频道",滨海1
+http://221.197.236.121:17514/udp/225.1.2.7:5002
+#EXTINF:-1 tvg-name="滨海1" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/binhai.png" group-title="天津频道",滨海1
 http://221.197.236.192:17514/udp/225.1.2.7:5002$联通RTP
 #EXTINF:-1 tvg-name="滨海2" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/binhai.png" group-title="天津频道",滨海2
+http://221.197.236.121:17514/udp/225.1.2.8:5002
+#EXTINF:-1 tvg-name="滨海2" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/binhai.png" group-title="天津频道",滨海2
 http://221.197.236.192:17514/udp/225.1.2.8:5002$联通RTP
+#EXTINF:-1 tvg-name="大港油田企业" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/youtian.png" group-title="天津频道",大港油田企业
+http://221.197.236.121:17514/udp/225.1.2.14:5002
 #EXTINF:-1 tvg-name="大港油田企业" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/youtian.png" group-title="天津频道",大港油田企业
 http://221.197.236.192:17514/udp/225.1.2.14:5002$天津RTP
 

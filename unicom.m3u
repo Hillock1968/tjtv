@@ -1166,7 +1166,7 @@ http://211.72.174.95:8115/0.ts
 #EXTINF:-1 tvg-name="民视综艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视综艺.png" group-title="港•澳•台",民视综艺
 http://iptv.4666888.xyz/iptv2A.php?id=46
 
-#EXTINF:-1 tvg-name="民视影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视影视.png" group-title="港•澳•台",民视影视
+#EXTINF:-1 tvg-name="民视影视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视影剧.png" group-title="港•澳•台",民视影剧
 http://iptv.4666888.xyz/iptv2A.php?id=53
 
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻台.png" group-title="港•澳•台",民视新闻台

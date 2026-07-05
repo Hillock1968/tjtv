@@ -1057,7 +1057,7 @@ http://221.197.236.121:17514/udp/225.1.2.7:5002$联通RTP
 http://221.197.236.121:17514/udp/225.1.2.8:5002$联通RTP
 #EXTINF:-1 tvg-name="大港油田企业" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/youtian.png" group-title="天津频道",大港油田企业
 
-#EXTINF:-1 tvg-name="iQIYI" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/binhai.png" group-title="华数频道",iQIYI
+#EXTINF:-1 tvg-name="爱奇艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/爱奇艺.png" group-title="华数频道",爱奇艺
 http://iptv.4666888.xyz/iptv2A.php?id=21
 
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/爱上4K.png" group-title="华数频道",爱上4K
@@ -1155,7 +1155,16 @@ http://211.72.174.95:8112/0.ts
 http://211.72.174.95:8114/0.ts
 
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视.png" group-title="港•澳•台",民视
+http://iptv.4666888.xyz/iptv2A.php?id=55
+
+#EXTINF:-1 tvg-name="民视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视.png" group-title="港•澳•台",民视
 http://211.72.174.95:8115/0.ts
+
+#EXTINF:-1 tvg-name="民视综艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视综艺.png" group-title="港•澳•台",民视综艺
+http://iptv.4666888.xyz/iptv2A.php?id=46
+
+#EXTINF:-1 tvg-name="民视影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视影视.png" group-title="港•澳•台",民视影视
+http://iptv.4666888.xyz/iptv2A.php?id=53
 
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻台.png" group-title="港•澳•台",民视新闻台
 http://211.72.174.95:8117/0.ts
@@ -1185,7 +1194,10 @@ http://iptv.4666888.xyz/iptv2A.php?id=43
 http://iptv.4666888.xyz/iptv2A.php?id=47
 
 #EXTINF:-1 tvg-name="八度空间" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/八度空间png" group-title="港•澳•台",八度空间
-https://cdn6.163189.xyz/163189/8tv
+http://iptv.4666888.xyz/iptv2A.php?id=52
+
+#EXTINF:-1 tvg-name="靖洋电影台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/靖洋电影台.png" group-title="港•澳•台",靖洋电影台
+http://iptv.4666888.xyz/iptv2A.php?id=56
 
 #EXTINF:-1 tvg-name="靖洋戏剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/靖洋戏剧.png" group-title="港•澳•台",靖洋戏剧
 http://iptv.4666888.xyz/iptv2A.php?id=42
@@ -1204,6 +1216,9 @@ https://cdn8.163189.xyz/163189/lhjd
 
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华戏剧.png" group-title="港•澳•台",龙华戏剧
 https://cdn8.163189.xyz/163189/lhxj
+
+#EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华洋片.png" group-title="港•澳•台",龙华洋片
+http://iptv.4666888.xyz/iptv2A.php?id=60
 
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/澳视澳门.png" group-title="港•澳•台",澳视澳门
 http://iptv.4666888.xyz/iptv2A.php?id=41

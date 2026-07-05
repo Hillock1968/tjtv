@@ -1056,7 +1056,9 @@ http://221.197.236.121:17514/udp/225.1.2.7:5002$联通RTP
 #EXTINF:-1 tvg-name="滨海2" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/binhai.png" group-title="天津频道",滨海2
 http://221.197.236.121:17514/udp/225.1.2.8:5002$联通RTP
 #EXTINF:-1 tvg-name="大港油田企业" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/youtian.png" group-title="天津频道",大港油田企业
-http://221.197.236.121:17514/udp/225.1.2.14:5002$天津RTP
+
+#EXTINF:-1 tvg-name="iQIYI" tvg-logo="https://gitee.com/chilinha/mytv/raw/master/logos/binhai.png" group-title="华数频道",iQIYI
+http://iptv.4666888.xyz/iptv2A.php?id=21
 
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/爱上4K.png" group-title="华数频道",爱上4K
 http://114.241.253.135:4022/爱上4K[超清]?cors
@@ -1110,7 +1112,7 @@ http://114.241.253.135:4022/少儿动画[高清]?cors
 http://114.241.253.135:4022/动画[高清]?cors
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
-http://t.061899.xyz/tl/js/js.php?id=fhwszwt$订阅源1
+http://iptv.4666888.xyz/iptv2A.php?id=19$订阅源1
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
 http://t.061899.xyz/tl/js/js.php?id=fhwszwt$订阅源2
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
@@ -1141,7 +1143,7 @@ http://push.cdn1.hls123.de:8080/streams/hbiwgswysds/index.m3u8$订阅源1
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="港•澳•台",明珠台
 http://push.cdn1.hls123.de:8080/streams/89a8p45a15e/index.m3u8$订阅源1
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="港•澳•台",翡翠台
-http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8$订阅源1
+http://iptv.4666888.xyz/iptv2A.php?id=26$订阅源1
 
 #EXTINF:-1 tvg-name="公视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/公视.png" group-title="港•澳•台",公视
 http://220.135.241.47:8305/0.ts

@@ -1112,14 +1112,14 @@ http://114.241.253.135:4022/少儿动画[高清]?cors
 http://114.241.253.135:4022/动画[高清]?cors
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
-http://218.104.239.114:9901/tsfile/live/1013_1.m3u8$订阅源1
+http://61.178.227.57:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=08$订阅源1
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
 http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$订阅源2
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
 http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8$3
 
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
-https://flv-play.clouda.com/live/fhzx-gCDIOsNFJ7DX5OI8hsebeQNHPm66LAMZgmIcGYcfIIEzXWKCVG2cQgbZdRq2aUVqJR.flv$订阅源1
+http://61.178.227.57:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源1
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
 http://218.104.239.114:9901/tsfile/live/1012_1.m3u8$订阅源2
 
@@ -1127,7 +1127,7 @@ http://218.104.239.114:9901/tsfile/live/1012_1.m3u8$订阅源2
 http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8$订阅源3
 
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="港•澳•台",凤凰香港
-https://flv-play.clouda.com/live/fhxg-s6ZqbJPCkU54D3ojHvlJm4el9wbnzF1VJ6J0oPumsZIfuPtYq1enmIhy43vWcUaaPf4U2xRRWNGOXX5BiusMXxxQ.flv$订阅源1
+http://61.178.227.57:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源1
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="港•澳•台",凤凰香港
 http://push.cdn1.hls123.de:8080/streams/898y722sqjr/index.m3u8$订阅源2
 
@@ -1166,7 +1166,7 @@ http://211.72.174.95:8115/0.ts
 #EXTINF:-1 tvg-name="民视综艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视综艺.png" group-title="港•澳•台",民视综艺
 http://iptv.4666888.xyz/iptv2A.php?id=46
 
-#EXTINF:-1 tvg-name="民视影视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视影剧.png" group-title="港•澳•台",民视影剧
+#EXTINF:-1 tvg-name="民视影剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视影视剧.png" group-title="港•澳•台",民视影剧
 http://iptv.4666888.xyz/iptv2A.php?id=53
 
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻台.png" group-title="港•澳•台",民视新闻台

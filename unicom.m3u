@@ -343,6 +343,9 @@ http://101.31.193.208:10317/央视/风云音乐高清?cors$订阅源5
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="央视付费频道",风云音乐
 http://221.197.236.121:17514/udp/225.1.2.176:5002$联通RTP
 
+#EXTINF:-1 tvg-id="中国电影频道" tvg-name="" tvg-logo="https://gh-proxy.com/https://中国电影频道raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="央视付费频道",中国电影频道
+http://iptv.4666888.xyz/iptv2A.php?id=61
+
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="央视付费频道",CHC家庭影院
 http://198.204.228.26/live/chcjt.m3u8$订阅源1
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="央视付费频道",CHC家庭影院
@@ -1226,7 +1229,7 @@ https://cdn8.163189.xyz/163189/lhxj
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华洋片.png" group-title="港•澳•台",龙华洋片
 http://iptv.4666888.xyz/iptv2A.php?id=60
 
-#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来电影.png" group-title="港•澳•台",FGM_gold电影
+#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来电影.png" group-title="港•澳•台",纬来电影
 http://iptv.4666888.xyz/iptv2A.php?id=54
 
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/澳视澳门.png" group-title="港•澳•台",澳视澳门

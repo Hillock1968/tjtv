@@ -1119,7 +1119,7 @@ http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$订阅源2
 http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8$3
 
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
-http://61.178.227.57:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源1
+http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源1
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
 http://218.104.239.114:9901/tsfile/live/1012_1.m3u8$订阅源2
 
@@ -1161,7 +1161,7 @@ http://211.72.174.95:8114/0.ts
 http://iptv.4666888.xyz/iptv2A.php?id=55
 
 #EXTINF:-1 tvg-name="民视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视.png" group-title="港•澳•台",民视
-http://211.72.174.95:8115/0.ts
+http://iptv.4666888.xyz/iptv2A.php?id=55
 
 #EXTINF:-1 tvg-name="民视综艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视综艺.png" group-title="港•澳•台",民视综艺
 http://iptv.4666888.xyz/iptv2A.php?id=46
@@ -1199,6 +1199,9 @@ http://iptv.4666888.xyz/iptv2A.php?id=47
 #EXTINF:-1 tvg-name="八度空间" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/八度空间png" group-title="港•澳•台",八度空间
 http://iptv.4666888.xyz/iptv2A.php?id=52
 
+#EXTINF:-1 tvg-name="靖天电影台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天电影台.png" group-title="港•澳•台",靖天电影台
+http://iptv.4666888.xyz/iptv2A.php?id=56
+
 #EXTINF:-1 tvg-name="靖洋电影台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/靖洋电影台.png" group-title="港•澳•台",靖洋电影台
 http://iptv.4666888.xyz/iptv2A.php?id=56
 
@@ -1222,6 +1225,9 @@ https://cdn8.163189.xyz/163189/lhxj
 
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华洋片.png" group-title="港•澳•台",龙华洋片
 http://iptv.4666888.xyz/iptv2A.php?id=60
+
+#EXTINF:-1 tvg-name="纬来电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来电影.png" group-title="港•澳•台",FGM_gold电影
+http://iptv.4666888.xyz/iptv2A.php?id=54
 
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/澳视澳门.png" group-title="港•澳•台",澳视澳门
 http://iptv.4666888.xyz/iptv2A.php?id=41

@@ -343,7 +343,7 @@ http://101.31.193.208:10317/央视/风云音乐高清?cors$订阅源5
 #EXTINF:-1 tvg-name="风云音乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/风云音乐.png" group-title="央视付费频道",风云音乐
 http://221.197.236.121:17514/udp/225.1.2.176:5002$联通RTP
 
-#EXTINF:-1 tvg-id="中国电影频道" tvg-name="" tvg-logo="https://gh-proxy.com/https://中国电影频道raw.githubusercontent.com/fanmingming/live/main/tv/中国电影频道.png" group-title="央视付费频道",中国电影频道
+#EXTINF:-1 tvg-id="中国电影频道" tvg-name="中国电影频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中国电影频道.png" group-title="央视付费频道",中国电影频道
 http://iptv.4666888.xyz/iptv2A.php?id=61
 
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="央视付费频道",CHC家庭影院
@@ -1127,7 +1127,7 @@ http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 http://218.104.239.114:9901/tsfile/live/1012_1.m3u8$订阅源2
 
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
-http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8$订阅源3
+http://t.061899.xyz/tl/js/js.php?id=fhwszxt$订阅源3
 
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="港•澳•台",凤凰香港
 http://61.178.227.57:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源1

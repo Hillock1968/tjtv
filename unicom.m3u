@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://e.erw.cc/e.xml.gz,https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/TV/refs/heads/master/output/epg/epg.gz"
+5#EXTM3U url-tvg="http://e.erw.cc/e.xml.gz,https://gh-proxy.com/https://raw.githubusercontent.com/adminouyang/TV/refs/heads/master/output/epg/epg.gz"
 
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="央视频道",CCTV-1
 http://204.12.221.218:8181/3m1080p/cctv1.m3u8$订阅源1
@@ -126,7 +126,7 @@ http://58.56.162.102:4466/newlive/live/hls/15/live.m3u8$订阅源3
 rtp://225.1.1.144:5002$联通RTP
 
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15
-http://204.12.221.218:8181/3m1080p/cctv15.m3u8$订阅源0
+http://go.bkpcp.top/mg/cctv15$订阅源0
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15
 http://222.223.41.27:8888/hls/15/index.m3u8$订阅源1
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV15.png" group-title="央视频道",CCTV-15

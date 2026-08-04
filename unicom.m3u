@@ -628,16 +628,17 @@ http://114.249.104.3:4022/rtp/239.3.1.80:4120
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
 http://221.7.175.154:8445/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源1
-
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
-http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$订阅源2
+http://r.jdshipin.com/cCCzW$订阅源2
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
-http://push.cdn1.hls123.de:8080/streams/a4y2t99pzyi/index.m3u8$3
+http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$订阅源3
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$订阅源4
 
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
 http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源1
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
-http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源2
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$订阅源2
 
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
 http://t.061899.xyz/tl/js/js.php?id=fhwszxt$订阅源3
@@ -660,9 +661,9 @@ http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$�
 https://flv-play.clouda.com/live/13-ut3RFdJxRGEIEn2AMMPEkKK5TfHBIgvlqwcjFuAItD6Y2IgzaDEznMF3EswnXWDb4O.flv$订阅源1
 
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="港•澳•台",明珠台
-http://push.cdn1.hls123.de:8080/streams/89a8p45a15e/index.m3u8$订阅源1
+http://iptv.4666888.xyz/iptv2A.php?id=29$订阅源1
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="港•澳•台",翡翠台
-http://iptv.4666888.xyz/iptv2A.php?id=26$订阅源1
+http://iptv.4666888.xyz/iptv2A.php?id=34$订阅源1
 
 #EXTINF:-1 tvg-name="公视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/公视.png" group-title="港•澳•台",公视
 http://220.135.241.47:8305/0.ts
@@ -687,6 +688,9 @@ http://iptv.4666888.xyz/iptv2A.php?id=53
 
 #EXTINF:-1 tvg-name="民视新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻台.png" group-title="港•澳•台",民视新闻台
 http://211.72.174.95:8117/0.ts
+
+#EXTINF:-1 tvg-name="华艺中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/华艺中文.png" group-title="港•澳•台",华艺中文
+http://iptv.4666888.xyz/iptv2A.php?id=37
 
 #EXTINF:-1 tvg-name="中视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中视.png" group-title="港•澳•台",中视
 http://211.72.174.95:8113/0.ts

@@ -579,52 +579,52 @@ rtp://225.1.2.14:5002$联通RTP
 http://iptv.4666888.xyz/iptv2A.php?id=21
 
 #EXTINF:-1 tvg-name="爱上4K" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/爱上4K.png" group-title="华数频道",爱上4K
-http://114.249.104.3:4022/rtp/239.3.1.236:2000
+http://yaoleyaotou.com:4022/rtp/239.3.1.236:2000
 
 #EXTINF:-1 tvg-name="星影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/星影.png" group-title="华数频道",星影
-http://114.249.104.3:4022/rtp/239.3.1.94:4120
+http://yaoleyaotou.com:4022/rtp/239.3.1.94:4120
 
 #EXTINF:-1 tvg-name="动作影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/动作影院.png" group-title="华数频道",动作影院
-http://114.249.104.3:4022/rtp/239.3.1.92:4120
+http://yaoleyaotou.com:4022/rtp/239.3.1.92:4120
 
 #EXTINF:-1 tvg-name="光影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/光影.png" group-title="华数频道",光影
-http://114.249.104.3:4022/rtp/239.3.1.84:4120
+http://yaoleyaotou.com:4022/rtp/239.3.1.84:4120
 
 #EXTINF:-1 tvg-name="喜剧影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/喜剧影院.png" group-title="华数频道",喜剧影院
-http://114.249.104.3:4022/rtp/239.3.1.91:4120
+http://yaoleyaotou.com:4022/rtp/239.3.1.91:4120
 
 #EXTINF:-1 tvg-name="家庭影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/家庭影院.png" group-title="华数频道",家庭影院
-http://114.249.104.3:4022/rtp/239.3.1.93:4120
+http://yaoleyaotou.com:4022/rtp/239.3.1.93:4120
 
 #EXTINF:-1 tvg-name="精选" tvg-logo="https://epg.112114.xyz/logo/https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/精选.png" group-title="华数频道",精选
-http://114.249.104.3:4022/rtp/239.3.1.74:4120
+http://yaoleyaotou.com:4022/rtp/239.3.1.74:4120
 
 #EXTINF:-1 tvg-name="经典电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/经典电影.png" group-title="华数频道",经典电影
-http://114.249.104.3:4022/rtp/239.3.1.195:9024
+http://yaoleyaotou.com:4022/rtp/239.3.1.195:9024
 
 #EXTINF:-1 tvg-name="热播剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/热播剧场.png" group-title="华数频道",热播剧场
-http://114.249.104.3:4022/rtp/239.3.1.194:9020
+http://yaoleyaotou.com:4022/rtp/239.3.1.194:9020
 
 #EXTINF:-1 tvg-name="军旅剧场" tvg-logo="https://epg.112114.xyz/logo/华数军旅剧场.png" group-title="华数频道",军旅剧场
-http://114.249.104.3:4022/rtp/239.3.1.68:4120
+http://yaoleyaotou.com:4022/rtp/239.3.1.68:4120
 
 #EXTINF:-1 tvg-name="城市剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/城市剧场.png" group-title="华数频道",城市剧场
-http://114.249.104.3:4022/rtp/239.3.1.67:4120
+http://yaoleyaotou.com:4022/rtp/239.3.1.67:4120
 
 #EXTINF:-1 tvg-name="武侠剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/武侠剧场.png" group-title="华数频道",武侠剧场
 http://114.254.72.97:4022/rtp/239.3.1.90:4120
 
 #EXTINF:-1 tvg-name="魅力时尚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/魅力时尚.png" group-title="华数频道",魅力时尚
-http://114.249.104.3:4022/rtp/239.3.1.196:9012
+http://yaoleyaotou.com:4022/rtp/239.3.1.196:9012
 
 #EXTINF:-1 tvg-name="古装剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/古装剧场.png" group-title="华数频道",古装剧场
-http://114.249.104.3:4022/rtp/239.3.1.69:4120
+http://yaoleyaotou.com:4022/rtp/239.3.1.69:4120
 
 #EXTINF:-1 tvg-name="少儿动画" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/少儿动画.png" group-title="华数频道",少儿动画
-http://114.249.104.3:4022/rtp/239.3.1.199:9000
+http://yaoleyaotou.com:4022/rtp/239.3.1.199:9000
 
 #EXTINF:-1 tvg-name="动画" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/动画.png" group-title="华数频道",动画
-http://114.249.104.3:4022/rtp/239.3.1.80:4120
+http://yaoleyaotou.com:4022/rtp/239.3.1.80:4120
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
 http://t.061899.xyz/tl/js/js.php?id=fhwszwt$订阅源1

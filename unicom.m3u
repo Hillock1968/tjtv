@@ -178,7 +178,7 @@ http://192.151.150.154/live/fyyy.m3u8$订阅源3
 http://101.31.193.208:10317/央视/风云音乐高清?cors$订阅源4
 
 #EXTINF:-1 tvg-id="中国电影频道" tvg-name="中国电影频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中国电影频道.png" group-title="央视付费频道",中国电影频道
-http://iptv.4666888.xyz/iptv2A.php?id=61
+http://iptv.4666888.xyz/iptv2A.php?id=18
 
 #EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CHC家庭影院.png" group-title="央视付费频道",CHC家庭影院
 rtp://225.1.1.213:5002$联通RTP
@@ -669,15 +669,17 @@ http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&amp;playlive=1&amp;au
 #EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix4.png" group-title="港•澳•台",凤凰电影
 http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源1
 
+#EXTINF:-1 tvg-id="黄金华剧台" tvg-name="黄金华剧台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/黄金华剧台.png" group-title="港•澳•台",黄金华剧台
+http://iptv.4666888.xyz/iptv2A.php?id=24
+
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="港•澳•台",TVB星河
 https://flv-play.clouda.com/live/13-ut3RFdJxRGEIEn2AMMPEkKK5TfHBIgvlqwcjFuAItD6Y2IgzaDEznMF3EswnXWDb4O.flv$订阅源1
 
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠台.png" group-title="港•澳•台",明珠台
-https://hls.9kds.com/20260909/tvbpearl.m3u8
+#EXTINF:-1 tvg-id="TVB1" tvg-name="TVB1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB1.png" group-title="港•澳•台",TVB1
+http://iptv.4666888.xyz/iptv2A.php?id=25
+
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="港•澳•台",翡翠台
-https://hls.9kds.com/20260909/tvbjade.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="港•澳•台",翡翠台
-http://iptv.4666888.xyz/iptv2A.php?id=34$订阅源1
+http://iptv.4666888.xyz/iptv2A.php?id=28
 
 #EXTINF:-1 tvg-name="公视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/公视.png" group-title="港•澳•台",公视
 http://220.135.241.47:8305/0.ts
@@ -739,6 +741,9 @@ https://hls.9kds.com/20260909/yzws.m3u8
 #EXTINF:-1 tvg-name="八度空间" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/八度空间png" group-title="港•澳•台",八度空间
 http://iptv.4666888.xyz/iptv2A.php?id=52
 
+#EXTINF:-1 tvg-id="靖天欢乐台" tvg-name="靖天欢乐台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天欢乐台.png" group-title="港•澳•台",靖天欢乐台
+http://iptv.4666888.xyz/iptv2A.php?id=37
+
 #EXTINF:-1 tvg-name="靖天电影台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天电影台.png" group-title="港•澳•台",靖天电影台
 http://iptv.4666888.xyz/iptv2A.php?id=56
 
@@ -770,7 +775,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=60
 http://iptv.4666888.xyz/iptv2A.php?id=54
 
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/澳视澳门.png" group-title="港•澳•台",澳视澳门
-http://iptv.4666888.xyz/iptv2A.php?id=41
+http://iptv.4666888.xyz/iptv2A.php?id=19
 
 #EXTINF:-1 tvg-name="澳门综艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/澳门综艺.png" group-title="港•澳•台",澳门综艺
 http://cdn6.163189.xyz/163189/amzy

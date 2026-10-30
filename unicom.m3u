@@ -360,29 +360,13 @@ http://yaoleyaotou.com:4022/rtp/239.3.1.199:9000
 http://yaoleyaotou.com:4022/rtp/239.3.1.80:4120
 
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
-https://hls.9kds.com/20260909/fhzw.m3u8
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
-http://t.061899.xyz/tl/js/js.php?id=fhwszwt$订阅源1
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
-http://r.jdshipin.com/cCCzW$订阅源2
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
-http://zmgd.zyrnet.com:8888/hls/110/index.m3u8$订阅源3
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="港•澳•台",凤凰中文
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw$订阅源4
+http://zmgd.zyrnet.com:8888/hls/110/index.m3u8
 
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
-https://hls.9kds.com/20260909/fhzx.m3u8
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
-http://t.061899.xyz/tl/js/js.php?id=fhwszxt$订阅源1
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
-http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源2
-#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="港•澳•台",凤凰资讯
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx$订阅源3
+http://zmgd.zyrnet.com:8888/hls/109/index.m3u8
 
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="http://q1.fengshows.cn/a/2021_23/325d941090bee17.png" group-title="港•澳•台",凤凰香港
-http://t.061899.xyz/tl/js/js.php?id=fhwsxgt$订阅源1
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="港•澳•台",凤凰香港
-http://61.178.227.57:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源2
+https://cdn.qd.je/163189/fhhk
 
 #EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://g.blfrp.cn/https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/Phoenix4.png" group-title="港•澳•台",凤凰电影
 http://tsl.9kds.com:7088/rtp/239.253.93.81:6247$奇哈1
